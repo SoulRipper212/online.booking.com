@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+
+<HTML>
+
+	<HEAD>
+		<TITLE> Online consultation reservation</TITLE>
+	</HEAD>
+	<DIV STYLE = "BORDER:05PX SOLID #397ddb"> 
+	<body style="background-image: url('CLINIC.jpg');">
+
+	<BODY>
+		<H1 align = "center"><mark> ONLINE APPLICATION </mark></H1>
+	</div>
+		<H2> Instructions</H2>
+		<div style = "border:2px solid #0c1070">
+	
+		<h3><font size="+2.5" style="color:#000000"><mark>How to use the Website application</mark></font></br></h3>
+		<p><font size="+2">Step 1: Click the Apply now to go to the application form to be submitted.</br>
+		Step 2: Fill out the form correctly and honestly.</br>
+		Step 3: Wait for the email confirmation that says" The schedule has been saved!"</br>
+		Step 4: Exit the website and present the email in the consultation.</font>	</p>
+		
+		</div>
+		<H4> <font size="+2.5"><mark> Data Privacy Agreement</mark></font></H4>
+		<p><font size="+2"style="color:red"> <mark>In compliance with the Data Privacy Act (DPA) of 2012, and its Implementing Rules and Regulations (IRR) effective since May 20, 2016,</br> 
+		<mark>I allow The Hospital  to provide me certain services declared in relation to the</br> 
+		Health policy/ies they offered.</mark></br>
+As such, I agree and authorize the hopsital :</br> 
+1. Continue to use my and my policies’ information to process health services and administer the benefits as stated in my policy(ies).</br>
+2. Retain my information for a period of 1 month from the date of termination of my policy, or at such time that I submit to Hospital a </br>
+written cancellation of this consent, whichever is earlier. I agree that my information will be deleted/destroyed after this period.</br>
+3. Retain my information in the Medical Information Database shared with other health insurance companies in accordance with the Insurance 
+Regulation.</br>
+4. Share my information to affiliates and necessary third parties for any legitimate business purpose. I am assured that security systems are 
+employed to protect my information.</br>
+5. Inform me of future customer campaigns and base its offer using the personal information I shared with the company</mark></br></p></font>
+		<H4> <font size="+2.5"><mark>Proceed in the link below if you agree in the terms and conditions below</mark></font></h4>
+		<font size ="+1.5"><a href="https://forms.gle/cHAvqWZN86c9SvLJ9">Application Form</a></span></font>
+
+		<h5><MARK> <font size="+1.5"> If you have concerned just email us on: jhymkherwyn.baul@g.batstate-u.edu.ph or contact us on 0912-321-3452 </MARK></font></h5>
+
+</HTML>
